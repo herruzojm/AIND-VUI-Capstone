@@ -1,0 +1,13 @@
+[I 08:38:39.812 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[I 08:38:40.202 NotebookApp] Serving notebooks from local directory: /home/aind2/AIND-VUI-Capstone
+[I 08:38:40.202 NotebookApp] 0 active kernels
+[I 08:38:40.202 NotebookApp] The Jupyter Notebook is running at:
+[I 08:38:40.202 NotebookApp] http://0.0.0.0:8888/?token=f1b18acd662883bc72676944125cc24e5cff8e1a20dca8cf
+[I 08:38:40.202 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:38:40.206 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:8888/?token=f1b18acd662883bc72676944125cc24e5cff8e1a20dca8cf
+[I 08:39:40.095 NotebookApp] Interrupted...
+[I 08:39:40.096 NotebookApp] Shutting down 0 kernels
